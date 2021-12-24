@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\FirstApplication.exe
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\FirstApplication.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\FirstApplication.deps.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\FirstApplication.runtimeconfig.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\publish\FirstApplication.pdb

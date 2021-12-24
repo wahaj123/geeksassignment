@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\devops\FirstApplication.exe
+C:\inetpub\wwwroot\devops\appsettings.Development.json
+C:\inetpub\wwwroot\devops\appsettings.json
+C:\inetpub\wwwroot\devops\FirstApplication.dll
+C:\inetpub\wwwroot\devops\FirstApplication.deps.json
+C:\inetpub\wwwroot\devops\FirstApplication.runtimeconfig.json
+C:\inetpub\wwwroot\devops\FirstApplication.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\FirstApplication.exe
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\FirstApplication.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\FirstApplication.deps.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\FirstApplication.runtimeconfig.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Release\net6.0\PubTmp\Out\FirstApplication.pdb
