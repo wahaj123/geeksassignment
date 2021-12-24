@@ -3,7 +3,8 @@ pipeline {
     stages {
         stage('git') {
             steps {
-                git 'https://github.com/wahaj123/geeksassignment.git'
+                git branch: 'main', url: 'https://github.com/wahaj123/geeksassignment.git'
+
             }
         }
         stage('Restore packages'){
